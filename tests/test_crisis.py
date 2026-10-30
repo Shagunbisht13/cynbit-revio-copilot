@@ -45,6 +45,14 @@ def test_crisis_viral_reputation():
     assert crisis.severity == "high"
 
 
+def test_crisis_hinglish_detection():
+    text = "Yeh bilkul dhokha hai, manager was badtameez and refused bill receipt."
+    crisis = detect_crisis(text)
+    assert crisis.is_crisis is True
+    assert crisis.category in ["fraud_scam", "discrimination"]
+
+
+
 def test_non_crisis_standard_complaint():
     text = "The soup was lukewarm and it took 25 minutes for the waiter to bring the bill."
     crisis = detect_crisis(text)

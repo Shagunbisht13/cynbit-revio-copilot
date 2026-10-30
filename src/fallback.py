@@ -31,6 +31,8 @@ CRISIS_PATTERNS = {
         r"\bnerve damage\b",
         r"\binjury\b",
         r"\bemergency room\b",
+        r"\bbimar\b",
+        r"\bpet kharab\b",
     ],
     "legal_threat": [
         r"\blawyer\b",
@@ -42,6 +44,7 @@ CRISIS_PATTERNS = {
         r"\bmedical council\b",
         r"\bpolice\b",
         r"\bconsumer affairs\b",
+        r"\bfir\b",
     ],
     "fraud_scam": [
         r"\bscam\b",
@@ -50,6 +53,8 @@ CRISIS_PATTERNS = {
         r"\bunauthorized (charge|fee|transaction)\b",
         r"\bextort(ion)?\b",
         r"\bdouble-charged\b",
+        r"\bdhokha\b",
+        r"\bchori\b",
     ],
     "discrimination": [
         r"\bdiscriminat(ion|ed|ing)\b",
@@ -60,6 +65,7 @@ CRISIS_PATTERNS = {
         r"\bharrass(ment|ed)?\b",
         r"\bada violation\b",
         r"\bassault(ed)?\b",
+        r"\bbadtameez\b",
     ],
     "viral_reputation": [
         r"\bviral\b",

@@ -1,18 +1,18 @@
-# Revio Review Intelligence Engine 🛡️
-### AI Reputation Management, Aspect Sentiment & Crisis Triage Platform
-**Cynbit Technologies — AI/ML Engineer Technical Assessment**
+# Revio Copilot 🛡️
+### Smart AI Review Assistant & Crisis Guardian for Local Businesses
+**Cynbit Technologies — AI/ML Engineer Assessment**
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B.svg)](https://streamlit.io)
 [![Pydantic v2](https://img.shields.io/badge/Pydantic-v2.7+-E92063.svg)](https://docs.pydantic.dev/)
-[![Tests](https://img.shields.io/badge/pytest-17%20passed-brightgreen.svg)](https://docs.pytest.org/)
+[![Tests](https://img.shields.io/badge/pytest-18%20passed-brightgreen.svg)](https://docs.pytest.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ---
 
-## 📌 Executive Overview
+## 📌 What is Revio Copilot?
 
-The **Revio Review Intelligence Engine** is an enterprise-grade AI proof-of-concept designed to upgrade Cynbit’s proprietary **Revio** reputation management platform. 
+**Revio Copilot** is a smart AI assistant built for Cynbit's **Revio** platform. It helps local businesses, hotel chains, clinics, and retail stores understand customer reviews, catch dangerous complaints before they spread, and draft polite, safe replies in seconds. 
 
 While generic tools provide superficial star-rating averages or canned responses, Revio extracts granular, operational root causes across business aspects, flags high-liability crisis reviews (e.g., health hazards, litigation threats, discrimination, fraud), and drafts brand-aligned responses with strict anti-hallucination guardrails and human-in-the-loop oversight.
 

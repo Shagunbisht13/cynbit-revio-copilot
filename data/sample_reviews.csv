@@ -1,0 +1,76 @@
+review_id,review_text,rating,location,date,business_type
+REV-001,Severe food poisoning after eating the seafood platter yesterday! Three of us were hospitalized with acute gastroenteritis. Calling the municipal food health inspector immediately.,1,Jaipur HQ,2026-10-24,Hospitality & Dining
+REV-002,Found a rusty nail embedded inside the bread basket at the rooftop diner. Manager just laughed it off! Absolute health code violation.,1,Jaipur West,2026-10-25,Hospitality & Dining
+REV-003,You charged my credit card three times for an unconfirmed booking and refuse to refund. My lawyer is serving a legal notice to your registered Jaipur address on Monday under consumer protection laws.,1,Jaipur HQ,2026-10-26,Hospitality & Dining
+REV-004,This dental clinic performed an unconsented procedure that caused nerve damage. Filing a medical malpractice lawsuit and reporting Dr. Sharma to the medical council.,1,Delhi NCR,2026-10-27,Healthcare & Wellness
+REV-005,"Front desk staff explicitly denied entry to my wheelchair-bound cousin, claiming 'it ruins the aesthetic'. Pure discrimination and ADA violation.",1,Mumbai,2026-10-28,Retail & Creative
+REV-006,The security guard made derogatory casteist slurs when we asked for directions. Management did nothing when we protested.,1,Jaipur West,2026-10-29,Retail & Creative
+REV-007,Complete scam! They charged hidden fees amounting to 40% over the agreed estimate and forged my signature on the work receipt. Total financial fraud.,1,Delhi NCR,2026-10-22,Retail & Creative
+REV-008,I recorded the bouncer pushing an elderly guest down the front steps. Video has already hit 200k views on Instagram and Twitter. Local news has reached out.,1,Mumbai,2026-10-23,Hospitality & Dining
+REV-009,"Oh wonderful, 50 minutes of waiting just to get lukewarm soup and stale bread. Truly five-star efficiency from your kitchen team!",2,Jaipur HQ,2026-10-20,Hospitality & Dining
+REV-010,Fantastic ambiance if you enjoy deafening club music while trying to consult a dentist. Ear plugs should be included in the bill.,2,Delhi NCR,2026-10-18,Healthcare & Wellness
+REV-011,Loved paying premium bespoke designer rates for shirts that tore on the very first dry clean. Absolute masterclass in fast fashion disguised as couture.,2,Mumbai,2026-10-19,Retail & Creative
+REV-012,"The doctor was compassionate and clinical care was top notch, but the front desk billing was disorganized, rude, and took 45 minutes to produce an invoice.",3,Jaipur West,2026-10-21,Healthcare & Wellness
+REV-013,"Stunning heritage courtyard and delicious cocktails, yet the valet parking team scratched our car door and shrugged it off without an apology.",3,Jaipur HQ,2026-10-17,Hospitality & Dining
+REV-014,"Great fabrics and prompt tailoring delivery, but prices feel 30% higher than comparable boutiques in C-Scheme.",3,Jaipur West,2026-10-16,Retail & Creative
+REV-015,"Clean facilities and polite nurses. However, appointment was delayed by over an hour with zero prior notification.",3,Delhi NCR,2026-10-15,Healthcare & Wellness
+REV-016,"Exceptional stay! The housekeeping team kept the room immaculate, breakfast spread was lavish, and staff greeted us warmly by name.",5,Jaipur HQ,2026-10-22,Hospitality & Dining
+REV-017,Dr. Verma took time to explain each step of the root canal painless procedure. Transparent pricing with no surprise charges. Highly recommended!,5,Jaipur West,2026-10-23,Healthcare & Wellness
+REV-018,Handcrafted wedding sherwani tailored to perfection! Fitting was spot on on the first trial and delivery arrived two days early.,5,Delhi NCR,2026-10-24,Retail & Creative
+REV-019,"Best cold brew and sourdough sandwiches in Bandra. Fast Wi-Fi, friendly baristas, and reasonable pricing for the quality offered.",5,Mumbai,2026-10-25,Hospitality & Dining
+REV-020,"The entire boutique experience was delightful. Attentive stylists, curated collection, and very reasonable customization charges.",5,Jaipur HQ,2026-10-26,Retail & Creative
+REV-021,"Prompt online consultation, medication was delivered within 3 hours, and customer support was very helpful throughout.",5,Delhi NCR,2026-10-27,Healthcare & Wellness
+REV-022,Consistently great coffee and peaceful study nook. Staff always remembers my usual order with a smile.,5,Mumbai,2026-10-28,Hospitality & Dining
+REV-023,Wonderful heritage ambiance for an anniversary dinner. Flawless live classical music and courteous table attendants.,5,Jaipur HQ,2026-10-29,Hospitality & Dining
+REV-024,The hygiene standards are truly impressive. Sterilized dental equipment unsealed in front of patient. Puts one at complete ease.,5,Jaipur West,2026-10-29,Healthcare & Wellness
+REV-025,"Speedy delivery, exquisite packaging, and premium cotton feel. Will definitely order festive wear again.",5,Delhi NCR,2026-10-30,Retail & Creative
+REV-026,Air conditioning was malfunctioning all night in room 304 during peak summer heat. Maintenance took three hours to send a portable fan.,2,Jaipur HQ,2026-10-14,Hospitality & Dining
+REV-027,Overpriced menu for meager portion sizes. A small bowl of pasta cost 650 INR and arrived lukewarm.,2,Mumbai,2026-10-13,Hospitality & Dining
+REV-028,The clinic receptionist was texting on her personal phone and completely ignored patients waiting in queue.,2,Delhi NCR,2026-10-12,Healthcare & Wellness
+REV-029,Ordered custom curtains with promised 5-day dispatch; took over 18 days with zero tracking updates provided.,2,Jaipur West,2026-10-11,Retail & Creative
+REV-030,Restrooms near the main banquet hall were neglected and lacked hand soap or paper towels.,2,Jaipur HQ,2026-10-10,Hospitality & Dining
+REV-031,Coffee tasted burnt and bitter. Barista refused to remake it and acted defensive.,1,Mumbai,2026-10-09,Hospitality & Dining
+REV-032,Waiting room chairs were stained and dusty. Did not expect this from a private specialty clinic.,2,Jaipur West,2026-10-08,Healthcare & Wellness
+REV-033,Sizing charts on their website are completely misleading. The medium dress fits like an XS and returns process is cumbersome.,2,Delhi NCR,2026-10-07,Retail & Creative
+REV-034,Slow service during weekday lunch hours. It took 40 minutes for two salads to arrive.,2,Jaipur HQ,2026-10-06,Hospitality & Dining
+REV-035,"Staff insisted on cash payment because their card swipe machine was 'down', but refused to issue a printed receipt.",2,Mumbai,2026-10-05,Retail & Creative
+REV-036,"Decent hotel room for a brief business transit. Nothing extraordinary, average breakfast, standard amenities.",3,Jaipur HQ,2026-10-04,Hospitality & Dining
+REV-037,"Routine teeth cleaning done in 20 minutes. Dentist was fine, price was on par with other neighborhood clinics.",3,Jaipur West,2026-10-03,Healthcare & Wellness
+REV-038,"Average retail boutique. Standard collection seen in most malls, pricing neither cheap nor exorbitant.",3,Delhi NCR,2026-10-02,Retail & Creative
+REV-039,"Cappuccino was acceptable, seating is somewhat cramped during rush hours. Might revisit if in the area.",3,Mumbai,2026-10-01,Hospitality & Dining
+REV-040,"Standard consultation experience. Waiting time was around 25 minutes, doctor answered basic questions.",3,Delhi NCR,2026-09-30,Healthcare & Wellness
+REV-041,Incredible rooftop view overlooking the city palace lights! Cocktails were masterfully crafted and staff was attentive.,5,Jaipur HQ,2026-09-29,Hospitality & Dining
+REV-042,Brilliant pediatric dental experience! My 6-year-old was completely comfortable thanks to the doctor's gentle approach.,5,Jaipur West,2026-09-28,Healthcare & Wellness
+REV-043,High quality linen shirts with meticulous stitching. Store staff offered styling advice without being pushy.,5,Delhi NCR,2026-09-27,Retail & Creative
+REV-044,"Quiet atmosphere ideal for remote work, delicious almond croissants, and fast courteous service.",5,Mumbai,2026-09-26,Hospitality & Dining
+REV-045,Check-in was seamless. The receptionist even arranged complimentary late checkout for our flight schedule.,5,Jaipur HQ,2026-09-25,Hospitality & Dining
+REV-046,Cleanest clinic I have visited in Jaipur. Modern x-ray tech and very transparent pricing sheet displayed in reception.,5,Jaipur West,2026-09-24,Healthcare & Wellness
+REV-047,Custom bridal lehenga was delivered exactly on agreed timeline. Intricate zardozi embroidery matched reference photos.,5,Delhi NCR,2026-09-23,Retail & Creative
+REV-048,Affordable daily coffee subscription plan with top-tier single origin beans. The staff makes everyone feel like a regular.,5,Mumbai,2026-09-22,Hospitality & Dining
+REV-049,"Spotless room, plush mattress, and quiet air conditioning. Woke up refreshed for our morning business meetings.",5,Jaipur HQ,2026-09-21,Hospitality & Dining
+REV-050,Thorough dental scaling without any discomfort. Highly professional doctors and courteous support staff.,5,Jaipur West,2026-09-20,Healthcare & Wellness
+REV-051,"Valet service at Jaipur HQ took 30 minutes to retrieve our vehicle on Saturday evening, causing us to miss our train.",1,Jaipur HQ,2026-09-19,Hospitality & Dining
+REV-052,Wi-Fi in Jaipur West rooms drops connection every 10 minutes. Unacceptable if you need to work remotely.,2,Jaipur West,2026-09-18,Hospitality & Dining
+REV-053,Billing errors are frequent at the Delhi NCR boutique. They forgot to apply the promotional 20% discount code twice.,2,Delhi NCR,2026-09-17,Retail & Creative
+REV-054,"Delivery packaging for online orders in Mumbai was damaged, leaving the product box soaked in monsoon rain.",2,Mumbai,2026-09-16,Retail & Creative
+REV-055,Cleanliness of swimming pool at Jaipur HQ was disappointing; cloudy water and leaves floating near the drain.,2,Jaipur HQ,2026-09-15,Hospitality & Dining
+REV-056,Courteous dental assistants and quick painless filing. Very reasonable charges.,4,Jaipur West,2026-09-14,Healthcare & Wellness
+REV-057,"Charming boutique layout in Delhi NCR. Pricing is a bit high, but craftsmanship justifies it.",4,Delhi NCR,2026-09-13,Retail & Creative
+REV-058,Good matcha latte and cozy ambiance. Can get noisy on Sunday afternoons.,4,Mumbai,2026-09-12,Hospitality & Dining
+REV-059,Buffet breakfast had extensive South Indian and Continental options. Service was swift.,4,Jaipur HQ,2026-09-11,Hospitality & Dining
+REV-060,Modern clinic setup and digital prescriptions sent on WhatsApp. Easy appointment booking.,4,Jaipur West,2026-09-10,Healthcare & Wellness
+REV-061,Loved the bespoke tailoring fit. Only deduction is delivery was one day later than promised.,4,Delhi NCR,2026-09-09,Retail & Creative
+REV-062,Great espresso and friendly team. Seating space is somewhat limited.,4,Mumbai,2026-09-08,Hospitality & Dining
+REV-063,Room was clean and spacious. Reception staff was pleasant throughout our 3-night stay.,4,Jaipur HQ,2026-09-07,Hospitality & Dining
+REV-064,Efficient dental hygiene checkup. Clinic followed proper sanitization protocols.,4,Jaipur West,2026-09-06,Healthcare & Wellness
+REV-065,Good collection of ethnic kurtas. Helpful sales associates helped pick sizes.,4,Delhi NCR,2026-09-05,Retail & Creative
+REV-066,Smooth nitro cold brew and tasty avocado toast. Reliable Wi-Fi.,4,Mumbai,2026-09-04,Hospitality & Dining
+REV-067,Hotel location is central and convenient. Clean sheets and towels provided daily.,4,Jaipur HQ,2026-09-03,Hospitality & Dining
+REV-068,Dr. Gupta explained the orthodontic options clearly with transparent fee estimates.,4,Jaipur West,2026-09-02,Healthcare & Wellness
+REV-069,Tailored blazer fit comfortably right off the rack. Fabric quality is solid.,4,Delhi NCR,2026-09-01,Retail & Creative
+REV-070,Cozy cafe ambiance with pleasant jazz music. Good pastry selection.,4,Mumbai,2026-08-31,Hospitality & Dining
+REV-071,Rooftop dinner was memorable. Staff accommodated our dietary gluten-free request gracefully.,5,Jaipur HQ,2026-08-30,Hospitality & Dining
+REV-072,Emergency toothache treated promptly on a Sunday morning. Very grateful to the on-call doctor.,5,Jaipur West,2026-08-29,Healthcare & Wellness
+REV-073,Prompt international shipping and high-end silk finish. Exceeded expectations.,5,Delhi NCR,2026-08-28,Retail & Creative
+REV-074,Consistent taste across visits. Friendly baristas and clean restrooms.,5,Mumbai,2026-08-27,Hospitality & Dining
+REV-075,Beautiful boutique property with courteous management. Will recommend to colleagues visiting Jaipur.,5,Jaipur HQ,2026-08-26,Hospitality & Dining

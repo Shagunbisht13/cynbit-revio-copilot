@@ -1,0 +1,26 @@
+review_id,review_text,true_sentiment,true_aspects,is_crisis,crisis_category,crisis_severity,location
+EVAL-001,Severe food poisoning after dining here! Two guests were rushed to the emergency room with severe vomiting. Filing a complaint with the food safety commissioner.,negative,"quality:negative, service:negative",True,health_safety,high,Jaipur HQ
+EVAL-002,They double-charged my debit card and refused to provide an account statement. My legal counsel is sending a consumer court notice today.,negative,"price:negative, service:negative",True,legal_threat,high,Delhi NCR
+EVAL-003,Front manager yelled racial slurs at my partner and refused service at the door. Blatant discrimination and harassment.,negative,"staff:negative, service:negative",True,discrimination,high,Mumbai
+EVAL-004,Total scam. Charged hidden maintenance fee of 15000 INR not mentioned in quote. Forged invoice receipt.,negative,price:negative,True,fraud_scam,high,Jaipur West
+EVAL-005,Bouncer assaulted a paying customer at entrance. I filmed the entire video and it is already trending on Twitter with 100k views.,negative,"staff:negative, service:negative",True,viral_reputation,high,Jaipur HQ
+EVAL-006,"Oh fantastic, waiting an hour for cold dal and rubbery roti. What world-class hospitality!",negative,"service:negative, quality:negative",False,none,low,Jaipur HQ
+EVAL-007,"The surgeon was skilled and polite, but the clinic reception took 50 minutes to bill and lost my prescription.",neutral,"staff:positive, service:negative",False,none,low,Delhi NCR
+EVAL-008,"Loved the handwoven fabric and stylish cuts, but prices are double what other boutiques charge.",neutral,"quality:positive, price:negative",False,none,low,Jaipur West
+EVAL-009,"Flawless check-in, spotless suite, and the staff brought complimentary festive sweets to our room. Incredible stay!",positive,"service:positive, cleanliness:positive, staff:positive",False,none,low,Jaipur HQ
+EVAL-010,Painless dental extraction and very clear post-op instructions. Fair pricing.,positive,"quality:positive, staff:positive, price:positive",False,none,low,Jaipur West
+EVAL-011,Wedding sherwani fitting was impeccable and delivered two days ahead of schedule.,positive,"quality:positive, delivery:positive",False,none,low,Delhi NCR
+EVAL-012,Great pour-over coffee and pleasant quiet workspace. Courteous baristas.,positive,"quality:positive, staff:positive",False,none,low,Mumbai
+EVAL-013,Air conditioning unit leaked water on the carpet all night. Receptionist seemed unbothered.,negative,"cleanliness:negative, staff:negative",False,none,low,Jaipur HQ
+EVAL-014,Wait time was 45 minutes past our confirmed booking time with no explanation from staff.,negative,"service:negative, staff:negative",False,none,low,Delhi NCR
+EVAL-015,Stitching unraveled after single wear. Store refused exchange claiming clearance sale policy.,negative,"quality:negative, service:negative",False,none,low,Mumbai
+EVAL-016,Restroom was filthy and had no soap or water. Completely unhygienic.,negative,cleanliness:negative,False,none,low,Jaipur West
+EVAL-017,"Standard hotel stay. Clean bed, ordinary breakfast, nothing to complain or rave about.",neutral,"cleanliness:positive, quality:neutral",False,none,low,Jaipur HQ
+EVAL-018,"Routine checkup was satisfactory. Clinic was okay, normal pricing.",neutral,"quality:neutral, price:neutral",False,none,low,Delhi NCR
+EVAL-019,"Attentive service and delicious biryani, but dining hall was crowded and noisy.",positive,"service:positive, quality:positive",False,none,low,Jaipur HQ
+EVAL-020,"The delivery arrived late by 3 hours, but the packaging kept the food warm and fresh.",neutral,"delivery:negative, quality:positive",False,none,low,Mumbai
+EVAL-021,"Doctor was patient, gentle with child scaling, and clinic had sterilized tools sealed in pouches.",positive,"staff:positive, cleanliness:positive, quality:positive",False,none,low,Jaipur West
+EVAL-022,The manager threatened to take my phone away when I tried to record an unhygienic kitchen. Calling consumer affairs and police right now.,negative,"staff:negative, cleanliness:negative",True,legal_threat,high,Delhi NCR
+EVAL-023,"Fast dispatch, beautiful gift box, and fabric feels luxurious. Highly pleased with purchase.",positive,"delivery:positive, quality:positive",False,none,low,Mumbai
+EVAL-024,"Coffee was average, seating is fine. Basic neighborhood cafe.",neutral,quality:neutral,False,none,low,Mumbai
+EVAL-025,Unprofessional valet driver parked our luxury sedan on muddy curb and scratched alloy wheels. Management refuses to compensate.,negative,"service:negative, staff:negative",False,none,medium,Jaipur HQ

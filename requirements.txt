@@ -1,0 +1,8 @@
+streamlit>=1.35.0,<=1.58.0
+pydantic>=2.7.0,<=2.12.4
+pandas>=2.0.0,<=3.0.3
+google-genai>=1.0.0,<=1.50.0
+plotly>=5.20.0,<=6.8.0
+pytest>=8.0.0,<=9.1.1
+python-dotenv>=1.0.0,<=1.2.1
+scikit-learn>=1.4.0,<=1.9.0

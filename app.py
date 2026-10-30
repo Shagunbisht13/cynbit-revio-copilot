@@ -185,6 +185,23 @@ with st.sidebar:
     st.markdown(f"**Human Approval Tracker:**")
     st.markdown(f"✅ Approved: `{approved_count}` | ✏️ Edited: `{edited_count}` | ❌ Rejected: `{rejected_count}`")
 
+    if st.session_state.approval_states:
+        export_records = []
+        for rid, (status, text) in st.session_state.approval_states.items():
+            export_records.append({
+                "review_id": rid,
+                "approval_status": status,
+                "approved_or_edited_reply": text
+            })
+        export_csv_data = pd.DataFrame(export_records).to_csv(index=False).encode('utf-8')
+        st.download_button(
+            label="📥 Download Approvals Ledger (CSV)",
+            data=export_csv_data,
+            file_name="revio_approved_responses.csv",
+            mime="text/csv",
+            use_container_width=True
+        )
+
 
 # --- Main Application Header ---
 st.markdown('<div class="main-header">🛡️ Revio Review Intelligence Engine</div>', unsafe_allow_html=True)
